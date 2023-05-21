@@ -4,6 +4,7 @@
   "description": "hehehe bot",
   "main": "naksu.js",
   "scripts": {
+    "start":"nodemon naksu.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
